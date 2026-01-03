@@ -29,7 +29,7 @@ Un script puissant pour analyser les adresses IP en temps réel sur [Azar](https
 2. **Créer le script**
    - Cliquez sur l'icône Tampermonkey → "Créer un nouveau script"
    - Supprimez tout le contenu par défaut
-   - Copiez-collez le contenu de `ip-scanner.js`
+   - Copiez-collez le contenu de `main.js`
    - Sauvegardez (Ctrl+S ou Cmd+S)
 
 3. **Activer le script**
@@ -51,7 +51,7 @@ Un script puissant pour analyser les adresses IP en temps réel sur [Azar](https
 
 1. Ouvrez [azarlive.com](https://azarlive.com/)
 2. Ouvrez la console (**F12** → **Console**)
-3. Copiez le contenu de `ip-scanner.js`
+3. Copiez le contenu de `main.js`
 4. Collez dans la console
 5. **⚠️ Si erreur au collage :** Tapez `allow pasting` directement dans la console, puis recollez le script
 6. Appuyez sur **Entrée**
